@@ -4,7 +4,7 @@ var DOCTOR_EMAIL = "jordi@jordiriscopsiquiatria.com";
 var K = "v_zs-X4a3wOtCFoclzukyh-ROgzmi5cy"; /* clave compartida con el script: frena a los robots genéricos */
 var PRIV_VER = "v1-2026-11";
 /* Datos del responsable para el aviso de privacidad. Rellena nif y address cuando los confirmes: solo se muestran si no están vacíos. */
-var RESP = {name:"Dr. Jordi Risco Cabezos", colegiado:"COMG 6388", nif:"", address:"", policy:"https://jordiriscopsiquiatria.com/aviso-legal-y-politica-de-privacidad/"};
+var RESP = {name:"Dr. Jordi Risco Cabezos", colegiado:"COMG 6388", nif:"", address:"Carrer Nou 63-65, 17600 Figueres (Girona)", policy:"https://jordiriscopsiquiatria.com/aviso-legal-y-politica-de-privacidad/"};
 var ENDPOINT = "https://script.google.com/macros/s/AKfycby8Fe07VD9TWwqtHDMdmXLbHzBBl09TdTi7ipABRer3pRz05nF-35n1T-qAewI4ovmpgQ/exec";
 
 var T = {
